@@ -1,0 +1,1 @@
+Shell.AI Hackerearth Problem for reducing the cost of harvest production from 2418 locations, transfer cost to nearest set processing depot and similar transfer cost from each depot to nearest refinery
